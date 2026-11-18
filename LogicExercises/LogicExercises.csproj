@@ -8,7 +8,9 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <Folder Include="Exercises\ArrayAndStrings\" />
+    <Folder Include="0 - Presentation\" />
+    <Folder Include="1 - Application\" />
+    <Folder Include="3 - Infra\" />
   </ItemGroup>
 
 </Project>
